@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+ }
+ h1{
+    color: antiquewhite;
+ }
+ .text{
+    color: antiquewhite;
+ } 
+ h2{
+    color: antiquewhite;
+ }
+ .Form{
+
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(144,55,164,1) 10%, rgba(147,54,161,1) 18%, rgba(151,53,156,1) 34%, rgba(156,52,149,1) 63%, rgba(69,252,216,1) 80%, rgba(29,169,253,1) 100%);
+
+ }
